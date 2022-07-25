@@ -20,7 +20,7 @@ Linux:
 3. Run the file with ./KSModel.py
 
 ## Usage
-The applet is divided into 4 "windows". 
+The applet is divided into 4 tabs. 
 
 On the far left we find the current state of the system. Each point represents the angular motion of an individual oscillator. The colour of the dot represents the intrinsic angular frequency of that oscillator. There is also a small "worm" alongside a cross in the centre. The distance from the worm to the centre represents the modulus of the order parameter in the current state of the system. The position of the worm represents the value of the mean angle. The worm has a length of 20 time steps so that the change of the system in the recent past can be seen.
 
