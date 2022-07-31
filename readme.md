@@ -3,7 +3,7 @@ Kuramoto-Sakaguchi Model Simulation Applet by Josu Blanco and Elena del Campo. 2
 This applet simulates the evolution of a group of N coupled oscillators according to the Kuramoto-Sakaguchi model.
 
 ## Required libraries
-- Python 3
+- Python 3.10
 - Numpy, matplotlib and PyQt5
 
 ## Installation
